@@ -12,8 +12,8 @@ const links = [
 ];
 
 // format +15555555555
-const fromNumber = "",
-const toNumber = "",
+const fromNumber = "";
+const toNumber = "";
 
 links.forEach(url => {
     fetch(url)
