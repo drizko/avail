@@ -29,7 +29,6 @@ links.forEach(url => {
                 from: fromNumber,
                 to: toNumber,
               })
-              .then((message) => console.log(message.sid));
         }
       });
 })
