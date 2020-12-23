@@ -1,0 +1,17 @@
+{
+  "name": "avail",
+  "version": "0.0.1",
+  "description": "Availability checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^2.0.0",
+    "twilio": "^3.54.1"
+  }
+}
